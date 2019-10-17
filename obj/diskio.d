@@ -1,0 +1,16 @@
+.\obj\diskio.o: user\diskio.c
+.\obj\diskio.o: .\CM3\stm32f10x.h
+.\obj\diskio.o: .\CM3\core_cm3.h
+.\obj\diskio.o: D:\Keil_v5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\diskio.o: .\CM3\system_stm32f10x.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\obj\diskio.o: .\CM3\stm32f10x.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\diskio.o: .\FWlib\inc\stm32f10x_spi.h
+.\obj\diskio.o: .\FWlib\inc\misc.h
+.\obj\diskio.o: user\diskio.h
+.\obj\diskio.o: user\integer.h
+.\obj\diskio.o: user\sdio_sdcard.h
+.\obj\diskio.o: user\demo.h

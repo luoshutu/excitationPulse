@@ -1,0 +1,15 @@
+.\obj\gt9147.o: user\gt9147.c
+.\obj\gt9147.o: user\gt9147.h
+.\obj\gt9147.o: user\gti2c.h
+.\obj\gt9147.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\gt9147.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\obj\gt9147.o: .\CM3\stm32f10x.h
+.\obj\gt9147.o: .\CM3\core_cm3.h
+.\obj\gt9147.o: D:\Keil_v5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\gt9147.o: .\CM3\system_stm32f10x.h
+.\obj\gt9147.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\gt9147.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\gt9147.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\gt9147.o: .\FWlib\inc\stm32f10x_spi.h
+.\obj\gt9147.o: .\FWlib\inc\misc.h
+.\obj\gt9147.o: D:\Keil_v5\MDK\ARM\ARMCC\Bin\..\include\string.h

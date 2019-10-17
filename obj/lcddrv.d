@@ -1,0 +1,15 @@
+.\obj\lcddrv.o: TFT\LCDDRV.c
+.\obj\lcddrv.o: TFT\fsmc_sram.h
+.\obj\lcddrv.o: .\CM3\stm32f10x.h
+.\obj\lcddrv.o: .\CM3\core_cm3.h
+.\obj\lcddrv.o: D:\Keil_v5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lcddrv.o: .\CM3\system_stm32f10x.h
+.\obj\lcddrv.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\lcddrv.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\obj\lcddrv.o: .\CM3\stm32f10x.h
+.\obj\lcddrv.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\lcddrv.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\lcddrv.o: .\FWlib\inc\stm32f10x_spi.h
+.\obj\lcddrv.o: .\FWlib\inc\misc.h
+.\obj\lcddrv.o: TFT\font.h
+.\obj\lcddrv.o: .\user\demo.h

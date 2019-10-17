@@ -1,0 +1,15 @@
+.\obj\mysystem.o: mySystem.c
+.\obj\mysystem.o: .\CM3\stm32f10x.h
+.\obj\mysystem.o: .\CM3\core_cm3.h
+.\obj\mysystem.o: D:\Keil_v5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\mysystem.o: .\CM3\system_stm32f10x.h
+.\obj\mysystem.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\mysystem.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\obj\mysystem.o: .\CM3\stm32f10x.h
+.\obj\mysystem.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\mysystem.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\mysystem.o: .\FWlib\inc\stm32f10x_spi.h
+.\obj\mysystem.o: .\FWlib\inc\misc.h
+.\obj\mysystem.o: .\user\demo.h
+.\obj\mysystem.o: .\user\mySystem.h
+.\obj\mysystem.o: .\user\MCP.h

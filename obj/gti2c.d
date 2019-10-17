@@ -1,0 +1,13 @@
+.\obj\gti2c.o: user\gti2c.c
+.\obj\gti2c.o: user\gti2c.h
+.\obj\gti2c.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\gti2c.o: .\FWlib\inc\stm32f10x_fsmc.h
+.\obj\gti2c.o: .\CM3\stm32f10x.h
+.\obj\gti2c.o: .\CM3\core_cm3.h
+.\obj\gti2c.o: D:\Keil_v5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\gti2c.o: .\CM3\system_stm32f10x.h
+.\obj\gti2c.o: .\FWlib\inc\stm32f10x_conf.h
+.\obj\gti2c.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\gti2c.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\gti2c.o: .\FWlib\inc\stm32f10x_spi.h
+.\obj\gti2c.o: .\FWlib\inc\misc.h
